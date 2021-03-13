@@ -17,4 +17,11 @@ padding: 10px;
   border-radius: 10px;
   border: 2px solid black;
 }
+footer{
+  border-radius: 10px 10px 10px 10px;
+  text-align: center;
+  background-color: chocolate;
+  
+  padding: 30px;
+}
 
