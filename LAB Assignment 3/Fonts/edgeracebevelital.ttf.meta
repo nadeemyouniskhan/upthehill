@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f6d5ded9866685b439a20e5280fa89bb
+timeCreated: 1497298518
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Edge Racer Bevel Italic
+  fontNames:
+  - Edge Racer Bevel Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

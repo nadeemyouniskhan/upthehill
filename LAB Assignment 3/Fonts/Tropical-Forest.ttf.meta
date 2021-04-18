@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 21ef05ffd4f7bc04cab3149926636850
+timeCreated: 1497298518
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tropical Forest
+  fontNames:
+  - Tropical Forest
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
