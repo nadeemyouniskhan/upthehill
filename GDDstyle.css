@@ -17,6 +17,9 @@ padding: 10px;
   border-radius: 10px;
   border: 2px solid black;
 }
+p{
+    text-align:justify;
+}
 footer{
   border-radius: 10px 10px 10px 10px;
   text-align: center;
