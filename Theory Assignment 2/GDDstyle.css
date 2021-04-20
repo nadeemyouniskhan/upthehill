@@ -1,8 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
 
+/*Variables*/
+:root {
+    --fuentemain: 'Ubuntu', sans-serif;
+    --fuentesecond: 'Poppins', sans-serif;
+}
 body {
-  font-family: sans-serif;
-  font-size: 18px;
-  
+    font-family: var( --fuentesecond);
+    font-size: 18px;
+    text-align:justify;
 }
 
 #Main-container{
@@ -11,6 +17,20 @@ border-radius: 10px;
 margin: 20px;
 padding: 10px;
 
+}
+.Sounds{
+    display:flex;
+    align-content:center;
+   border-radius:10px;
+    padding:5px;
+    background-color:gainsboro;
+}
+.soundTitle{
+    margin-left:10%
+}
+.audio {
+    margin-left: 20%;
+    margin-top: 8px;
 }
 #header{
   background-color: white;    
@@ -25,3 +45,32 @@ footer{
   padding: 30px;
 }
 
+.carSection{
+    display:flex;
+}
+img {
+    margin:20px;
+    width: 220px;
+    height: 150px;
+}
+@media (max-width: 700px) {
+    .carSection {
+        display: block;
+    }
+    
+    img{
+        width:200px;
+        height:200px;
+    }
+    .Sounds {
+        display: block;
+        align-content: center;
+        border-radius: 10px;
+        
+        background-color: gainsboro;
+    }
+
+    .soundTitle {
+      margin:0px;
+    }
+}
